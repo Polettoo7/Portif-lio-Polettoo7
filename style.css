@@ -1,3 +1,5 @@
+
+
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400&display=swap');
 
 *{
@@ -40,12 +42,13 @@ body{
     flex-direction: column;
     height: 85vh;
     align-items: center ;
-    justify-content: center;
 
 }
 
 .sobremim{
-    margin: 5%;
+    display: flex;
+    margin-left: 10%;
+    margin-top: 35%;
     border-radius: 25px;
     background: rgb(0,236,255); background: linear-gradient(0deg, rgba(0,236,255,1) 0%, rgba(0,157,172,1) 50%, rgba(0,112,122,1) 90%);
     box-shadow: 0px 10px 40px #0000006c;
@@ -53,13 +56,5 @@ body{
     width: 35%;
     height: 25vh;
 }
-
-.contatos{
-
-}
-
-
-
-
 
 
